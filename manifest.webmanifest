@@ -1,0 +1,12 @@
+{
+  "name": "饮食助手",
+  "short_name": "饮食助手",
+  "description": "糖尿病饮食决策工具：能不能吃、吃多少、有什么风险",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f7f5",
+  "theme_color": "#16a34a",
+  "icons": []
+}
